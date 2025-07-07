@@ -1,0 +1,146 @@
+{
+    "Mechanics": {
+        "Kinematics": {
+            "multiple_choice": [
+                {
+                    "question": "An object travels from point A to point B with an average velocity of 20 m/s. If the distance between A and B is 100m, what is the time taken?",
+                    "answer": "5s",
+                    "type": "remembering",
+                    "choices": [
+                        "2s",
+                        "5s",
+                        "10s",
+                        "20s"
+                    ]
+                }
+            ],
+            "true_false": [],
+            "problem_solving": []
+        },
+        "Dynamics": {
+            "multiple_choice": [
+                {
+                    "question": "A 5 kg block is pushed by a 10N force on frictionless surface. What is the block's acceleration?",
+                    "answer": "2 m/s^2",
+                    "type": "applied",
+                    "choices": [
+                        "1 m/s^2",
+                        "2 m/s^2",
+                        "5 m/s^2",
+                        "10 m/s^2"
+                    ]
+                }
+            ],
+            "true_false": [],
+            "problem_solving": []
+        }
+    },
+    "Thermodynamics": {
+        "Temperature": {
+            "multiple_choice": [
+                {
+                    "question": "What is the SI unit used to measure temperature?",
+                    "answer": "Kelvin",
+                    "type": "remembering",
+                    "choices": [
+                        "Kelvin",
+                        "Celsius",
+                        "Fahrenheit",
+                        "Joule"
+                    ]
+                },
+                {
+                    "question": "Why does temperature remain constant during a phase change even when heat is continuously added?",
+                    "answer": "The energy is used to break molecular bonds",
+                    "type": "inferential",
+                    "choices": [
+                        "The thermometer is malfunctioning",
+                        "The system is in thermal equilibrium",
+                        "The energy is used to break molecular bonds",
+                        "The molecules are expanding rapidly"
+                    ]
+                },
+                {
+                    "question": "If two objects at different temperatures are placed in contact, what will happen?",
+                    "answer": "Heat flows from the hotter object to the cooler one",
+                    "type": "applied",
+                    "choices": [
+                        "No heat transfer occurs",
+                        "Heat flows from cooler to hotter",
+                        "Temperature remains unchanged",
+                        "Heat flows from the hotter object to the cooler one"
+                    ]
+                }
+            ],
+            "true_false": [],
+            "problem_solving": []
+        },
+        "Heat Transfer": {
+            "multiple_choice": [
+                {
+                    "question": "Which method of heat transfer occurs without the movement of matter?",
+                    "answer": "Radiation",
+                    "type": "remembering",
+                    "choices": [
+                        "Conduction",
+                        "Convection",
+                        "Radiation",
+                        "Insulation"
+                    ]
+                },
+                {
+                    "question": "A metal spoon is left in a hot cup of coffee and becomes warm. What type of heat transfer is this?",
+                    "answer": "Conduction",
+                    "type": "applied",
+                    "choices": [
+                        "Convection",
+                        "Radiation",
+                        "Conduction",
+                        "Evaporation"
+                    ]
+                },
+                {
+                    "question": "Why does wearing white clothes help keep you cooler in hot weather?",
+                    "answer": "White reflects more radiation than it absorbs",
+                    "type": "inferential",
+                    "choices": [
+                        "White traps heat better",
+                        "White absorbs heat efficiently",
+                        "White reflects more radiation than it absorbs",
+                        "White increases convection"
+                    ]
+                }
+            ],
+            "true_false": [],
+            "problem_solving": []
+        },
+        "Laws of Thermodynamics": {
+            "multiple_choice": [
+                {
+                    "question": "What does the First Law of Thermodynamics state?",
+                    "answer": "Energy cannot be created or destroyed",
+                    "type": "remembering",
+                    "choices": [
+                        "Heat flows from cold to hot",
+                        "Entropy always increases",
+                        "Energy cannot be created or destroyed",
+                        "Work is always equal to heat"
+                    ]
+                },
+                {
+                    "question": "Which law implies that all natural processes tend to increase the total entropy of the universe?",
+                    "answer": "Second Law of Thermodynamics",
+                    "type": "remembering",
+                    "choices": [
+                        "First Law of Thermodynamics",
+                        "Second Law of Thermodynamics",
+                        "Third Law of Thermodynamics",
+                        "Zeroth Law of Thermodynamics"
+                    ]
+                }
+            ],
+            "true_false": [],
+            "problem_solving": []
+        }
+    }
+}

@@ -1,0 +1,2216 @@
+[
+  {
+    "title": "PHYSLEC2",
+    "date": "2025-07-04",
+    "type": "Midterm",
+    "difficulty": "Beginner",
+    "question_count": 50,
+    "questions": [
+      {
+        "type": "remembering",
+        "question": "The term 'trajectory' refers to:",
+        "choices": [
+          "The speed of an object",
+          "The path followed by an object in motion",
+          "The force acting on an object",
+          "The acceleration of an object"
+        ],
+        "answer": "The path followed by an object in motion",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "A collision where kinetic energy is conserved is called:",
+        "choices": [
+          "Inelastic",
+          "Elastic",
+          "Perfectly inelastic",
+          "Explosive"
+        ],
+        "answer": "Elastic",
+        "subtopic": "Momentum",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "If an object moves at constant velocity, its acceleration is:",
+        "choices": [
+          "Increasing",
+          "Decreasing",
+          "Zero",
+          "Constant but non-zero"
+        ],
+        "answer": "Zero",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "The force of friction always acts:",
+        "choices": [
+          "In the direction of motion",
+          "Perpendicular to motion",
+          "Opposite to the direction of motion",
+          "Upwards"
+        ],
+        "answer": "Opposite to the direction of motion",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "If an object is in equilibrium, the net force acting on it is:",
+        "choices": [
+          "Maximum",
+          "Zero",
+          "Increasing",
+          "Negative"
+        ],
+        "answer": "Zero",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Which force keeps planets in orbit around the Sun?",
+        "choices": [
+          "Electromagnetic force",
+          "Frictional force",
+          "Gravitational force",
+          "Tension force"
+        ],
+        "answer": "Gravitational force",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "An object thrown horizontally from a height will:",
+        "choices": [
+          "Fall straight down",
+          "Follow a parabolic trajectory",
+          "Move in a straight line",
+          "Circle around the point of release"
+        ],
+        "answer": "Follow a parabolic trajectory",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The area under a force-time graph represents:",
+        "choices": [
+          "Work",
+          "Power",
+          "Impulse",
+          "Momentum"
+        ],
+        "answer": "Impulse",
+        "subtopic": "Momentum",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'instantaneous velocity' refers to:",
+        "choices": [
+          "The average velocity over a period",
+          "The velocity at a specific moment in time",
+          "The maximum velocity reached",
+          "The minimum velocity reached"
+        ],
+        "answer": "The velocity at a specific moment in time",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The force that opposes the relative motion of two surfaces in contact is called:",
+        "choices": [
+          "Tension",
+          "Normal force",
+          "Friction",
+          "Gravitational force"
+        ],
+        "answer": "Friction",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The formula for calculating acceleration is:",
+        "choices": [
+          "a = (v - u) / t",
+          "a = v / t",
+          "a = u + v",
+          "a = s / t"
+        ],
+        "answer": "a = (v - u) / t",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "In a two-object collision, if one object is much more massive than the other, the smaller object's velocity after the collision is:",
+        "choices": [
+          "Unchanged",
+          "Significantly changed",
+          "Doubled",
+          "Zero"
+        ],
+        "answer": "Significantly changed",
+        "subtopic": "Momentum",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The distance traveled by an object in a given time can be calculated using the formula:",
+        "choices": [
+          "Distance = Speed \u00d7 Time",
+          "Distance = Acceleration \u00d7 Time",
+          "Distance = Velocity \u00d7 Time",
+          "Distance = Force \u00d7 Time"
+        ],
+        "answer": "Distance = Speed \u00d7 Time",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Newton's Second Law is mathematically expressed as:",
+        "choices": [
+          "F = mv",
+          "F = ma",
+          "F = mg",
+          "F = \u03bcN"
+        ],
+        "answer": "F = ma",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'uniform motion' refers to motion with:",
+        "choices": [
+          "Changing speed",
+          "Constant speed in a straight line",
+          "Acceleration",
+          "Deceleration"
+        ],
+        "answer": "Constant speed in a straight line",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "The normal force is always:",
+        "choices": [
+          "Parallel to the surface",
+          "Perpendicular to the surface",
+          "Opposite to gravity",
+          "Zero"
+        ],
+        "answer": "Perpendicular to the surface",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "An object in motion will continue in motion unless acted upon by an external force. This is known as:",
+        "choices": [
+          "Newton's First Law",
+          "Newton's Second Law",
+          "Newton's Third Law",
+          "Law of Universal Gravitation"
+        ],
+        "answer": "Newton's First Law",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "In an isolated system, total momentum is:",
+        "choices": [
+          "Increasing",
+          "Decreasing",
+          "Conserved",
+          "Zero"
+        ],
+        "answer": "Conserved",
+        "subtopic": "Momentum",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Newton's First Law is also called:",
+        "choices": [
+          "Law of Action-Reaction",
+          "Law of Acceleration",
+          "Law of Inertia",
+          "Law of Gravitation"
+        ],
+        "answer": "Law of Inertia",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Which equation describes motion with constant acceleration?",
+        "choices": [
+          "F = ma",
+          "v = u + at",
+          "s = vt",
+          "a = \u0394v/\u0394t"
+        ],
+        "answer": "v = u + at",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "Static friction is generally _____ kinetic friction.",
+        "choices": [
+          "Less than",
+          "Equal to",
+          "Greater than",
+          "Unrelated to"
+        ],
+        "answer": "Greater than",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The SI unit of force is:",
+        "choices": [
+          "Joule",
+          "Newton",
+          "Watt",
+          "Pascal"
+        ],
+        "answer": "Newton",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "An object in free fall experiences a net force equal to its weight. This is due to:",
+        "choices": [
+          "Friction",
+          "Tension",
+          "Gravity",
+          "Normal force"
+        ],
+        "answer": "Gravity",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Impulse is equal to the change in:",
+        "choices": [
+          "Velocity",
+          "Kinetic energy",
+          "Momentum",
+          "Force"
+        ],
+        "answer": "Momentum",
+        "subtopic": "Momentum",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The principle of conservation of momentum applies to:",
+        "choices": [
+          "Only elastic collisions",
+          "Only inelastic collisions",
+          "All types of collisions",
+          "Only perfectly inelastic collisions"
+        ],
+        "answer": "All types of collisions",
+        "subtopic": "Momentum",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'kinematics' refers to the study of:",
+        "choices": [
+          "Forces acting on objects",
+          "Energy transformations",
+          "Motion without considering forces",
+          "Equilibrium of forces"
+        ],
+        "answer": "Motion without considering forces",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Momentum is the product of:",
+        "choices": [
+          "Mass and acceleration",
+          "Force and time",
+          "Mass and velocity",
+          "Weight and speed"
+        ],
+        "answer": "Mass and velocity",
+        "subtopic": "Momentum",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "In a perfectly inelastic collision, the two objects:",
+        "choices": [
+          "Bounce apart",
+          "Stick together",
+          "Lose all kinetic energy",
+          "Gain momentum"
+        ],
+        "answer": "Stick together",
+        "subtopic": "Momentum",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "Which of the following is true about an object in free fall?",
+        "choices": [
+          "It has zero acceleration.",
+          "It accelerates downward at approximately 9.8 m/s\u00b2.",
+          "It moves upward.",
+          "Its speed decreases."
+        ],
+        "answer": "It accelerates downward at approximately 9.8 m/s\u00b2.",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "The force required to keep an object moving at constant velocity is equal to:",
+        "choices": [
+          "The gravitational force",
+          "The applied force",
+          "The force of friction",
+          "The normal force"
+        ],
+        "answer": "The force of friction",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "An object moving in a circular path at constant speed has:",
+        "choices": [
+          "Zero acceleration",
+          "Centripetal acceleration",
+          "Tangential acceleration",
+          "Linear acceleration"
+        ],
+        "answer": "Centripetal acceleration",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "A 0.5 kg ball moving at 10 m/s collides elastically with a stationary 0.5 kg ball. What is the final velocity of the first ball?",
+        "choices": [
+          "10 m/s",
+          "5 m/s",
+          "0 m/s",
+          "-10 m/s"
+        ],
+        "answer": "0 m/s (it comes to rest)",
+        "subtopic": "Momentum",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'uniform acceleration' means that the acceleration is:",
+        "choices": [
+          "Increasing over time",
+          "Decreasing over time",
+          "Constant over time",
+          "Variable"
+        ],
+        "answer": "Constant over time",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass. This is known as:",
+        "choices": [
+          "Newton's First Law",
+          "Newton's Second Law",
+          "Newton's Third Law",
+          "Law of Universal Gravitation"
+        ],
+        "answer": "Newton's Second Law",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "A car moving with a constant speed of 60 km/h for 2 hours travels a distance of:",
+        "choices": [
+          "60 km",
+          "120 km",
+          "180 km",
+          "240 km"
+        ],
+        "answer": "120 km",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "If the time of impact in a collision increases, the force exerted:",
+        "choices": [
+          "Increases",
+          "Decreases",
+          "Remains the same",
+          "Becomes zero"
+        ],
+        "answer": "Decreases",
+        "subtopic": "Momentum",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The displacement of an object is defined as:",
+        "choices": [
+          "The total distance traveled",
+          "The change in position",
+          "The speed of the object",
+          "The average velocity"
+        ],
+        "answer": "The change in position",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "When a car accelerates, the force exerted by the tires on the road is called:",
+        "choices": [
+          "Gravitational force",
+          "Frictional force",
+          "Normal force",
+          "Tension"
+        ],
+        "answer": "Frictional force",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Mass is a measure of:",
+        "choices": [
+          "Weight",
+          "Volume",
+          "Inertia",
+          "Density"
+        ],
+        "answer": "Inertia",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "In a head-on elastic collision between two equal masses, if one mass is initially at rest, what happens to their velocities after the collision?",
+        "choices": [
+          "One mass stops, the other moves",
+          "They exchange velocities",
+          "Both move at half speed",
+          "Both stop"
+        ],
+        "answer": "They exchange velocities",
+        "subtopic": "Momentum",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The formula for calculating average acceleration is:",
+        "choices": [
+          "a = (v - u) / t",
+          "a = v + u",
+          "a = s / t",
+          "a = F / m"
+        ],
+        "answer": "a = (v - u) / t",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The tendency of an object to resist changes in its state of motion is called:",
+        "choices": [
+          "Momentum",
+          "Inertia",
+          "Force",
+          "Acceleration"
+        ],
+        "answer": "Inertia",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "Free-fall acceleration near Earth's surface is approximately:",
+        "choices": [
+          "1 m/s\u00b2",
+          "9.8 m/s\u00b2",
+          "10 m/s\u00b2",
+          "0 m/s\u00b2"
+        ],
+        "answer": "9.8 m/s\u00b2",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'average velocity' is defined as:",
+        "choices": [
+          "Total distance divided by total time",
+          "Total displacement divided by total time",
+          "Final velocity minus initial velocity",
+          "Initial velocity plus final velocity"
+        ],
+        "answer": "Total displacement divided by total time",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The slope of a velocity-time graph represents:",
+        "choices": [
+          "Displacement",
+          "Velocity",
+          "Acceleration",
+          "Force"
+        ],
+        "answer": "Acceleration",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Recoil of a gun is an example of:",
+        "choices": [
+          "Newton's First Law",
+          "Conservation of energy",
+          "Conservation of momentum",
+          "Friction"
+        ],
+        "answer": "Conservation of momentum",
+        "subtopic": "Momentum",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "If an object moves in a straight line at constant speed, its acceleration is:",
+        "choices": [
+          "Positive",
+          "Negative",
+          "Zero",
+          "Changing"
+        ],
+        "answer": "Zero",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'instantaneous speed' refers to:",
+        "choices": [
+          "The average speed over a period",
+          "The speed of an object at a specific moment in time",
+          "The maximum speed reached",
+          "The minimum speed reached"
+        ],
+        "answer": "The speed of an object at a specific moment in time",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The impulse-momentum theorem states that impulse equals:",
+        "choices": [
+          "Force",
+          "Change in momentum",
+          "Work done",
+          "Kinetic energy"
+        ],
+        "answer": "Change in momentum",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The gravitational force between two objects depends on their masses and the distance between them. This relationship is described by:",
+        "choices": [
+          "Newton's First Law",
+          "Newton's Second Law",
+          "Newton's Third Law",
+          "Newton's Law of Universal Gravitation"
+        ],
+        "answer": "Newton's Law of Universal Gravitation",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      }
+    ],
+    "selected_topics": [
+      "Mechanics"
+    ],
+    "selected_subtopics": [
+      "Kinematics",
+      "Dynamics",
+      "Work, Energy, Power",
+      "Momentum"
+    ],
+    "selected_topic_subtopic_pairs": [
+      [
+        "Mechanics",
+        "Kinematics"
+      ],
+      [
+        "Mechanics",
+        "Dynamics"
+      ],
+      [
+        "Mechanics",
+        "Work, Energy, Power"
+      ],
+      [
+        "Mechanics",
+        "Momentum"
+      ]
+    ],
+    "time_spent_distribution": [
+      24,
+      62,
+      1,
+      3
+    ]
+  },
+  {
+    "title": "77",
+    "date": "2025-07-07",
+    "type": "Midterm",
+    "difficulty": "Beginner",
+    "question_count": 50,
+    "questions": [
+      {
+        "type": "applied",
+        "question": "An object in free fall experiences constant acceleration due to gravity. This acceleration is approximately:",
+        "choices": [
+          "9.8 m/s\u00b2",
+          "0 m/s\u00b2",
+          "10 m/s\u00b2",
+          "5 m/s\u00b2"
+        ],
+        "answer": "9.8 m/s\u00b2",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'scalar quantity' refers to a quantity that has:",
+        "choices": [
+          "Magnitude and direction",
+          "Magnitude only",
+          "Direction only",
+          "Neither magnitude nor direction"
+        ],
+        "answer": "Magnitude only",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "Which of the following describes an object in motion with constant speed?",
+        "choices": [
+          "It covers equal distances in equal intervals of time.",
+          "Its velocity is changing.",
+          "It has zero acceleration.",
+          "It is at rest."
+        ],
+        "answer": "It covers equal distances in equal intervals of time.",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "The force that acts on an object moving in a circular path is called:",
+        "choices": [
+          "Centrifugal force",
+          "Centripetal force",
+          "Frictional force",
+          "Gravitational force"
+        ],
+        "answer": "Centripetal force",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "The force required to keep an object moving at constant velocity is equal to:",
+        "choices": [
+          "The gravitational force",
+          "The applied force",
+          "The force of friction",
+          "The normal force"
+        ],
+        "answer": "The force of friction",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'uniform acceleration' means that the acceleration is:",
+        "choices": [
+          "Increasing over time",
+          "Decreasing over time",
+          "Constant over time",
+          "Variable"
+        ],
+        "answer": "Constant over time",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "An object in motion will continue in motion unless acted upon by an external force. This is known as:",
+        "choices": [
+          "Newton's First Law",
+          "Newton's Second Law",
+          "Newton's Third Law",
+          "Law of Universal Gravitation"
+        ],
+        "answer": "Newton's First Law",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "An object moving with uniform acceleration has a velocity that changes:",
+        "choices": [
+          "Randomly",
+          "Linearly with time",
+          "Exponentially",
+          "Inversely"
+        ],
+        "answer": "Linearly with time",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The formula for calculating average speed is:",
+        "choices": [
+          "Total distance / Total time",
+          "Final velocity - Initial velocity",
+          "Total displacement / Total time",
+          "Initial velocity + Final velocity"
+        ],
+        "answer": "Total distance / Total time",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "What does the slope of a position-time graph represent?",
+        "choices": [
+          "Acceleration",
+          "Velocity",
+          "Displacement",
+          "Force"
+        ],
+        "answer": "Velocity",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'vector quantity' refers to a quantity that has:",
+        "choices": [
+          "Magnitude only",
+          "Direction only",
+          "Magnitude and direction",
+          "Neither magnitude nor direction"
+        ],
+        "answer": "Magnitude and direction",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "An object in free fall experiences a net force equal to its weight. This is due to:",
+        "choices": [
+          "Friction",
+          "Tension",
+          "Gravity",
+          "Normal force"
+        ],
+        "answer": "Gravity",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "An object moving in a straight line with constant speed has:",
+        "choices": [
+          "Positive acceleration",
+          "Negative acceleration",
+          "Zero acceleration",
+          "Variable acceleration"
+        ],
+        "answer": "Zero acceleration",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The tendency of an object to resist changes in its state of motion is called:",
+        "choices": [
+          "Momentum",
+          "Inertia",
+          "Force",
+          "Acceleration"
+        ],
+        "answer": "Inertia",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The displacement of an object is defined as:",
+        "choices": [
+          "The total distance traveled",
+          "The change in position",
+          "The speed of the object",
+          "The average velocity"
+        ],
+        "answer": "The change in position",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The formula for calculating displacement in uniformly accelerated motion is:",
+        "choices": [
+          "s = ut + 0.5at\u00b2",
+          "s = vt - 0.5at\u00b2",
+          "s = ut - 0.5at\u00b2",
+          "s = vt + 0.5at\u00b2"
+        ],
+        "answer": "s = ut + 0.5at\u00b2",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Newton's First Law is also called:",
+        "choices": [
+          "Law of Action-Reaction",
+          "Law of Acceleration",
+          "Law of Inertia",
+          "Law of Gravitation"
+        ],
+        "answer": "Law of Inertia",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "If an object is in equilibrium, the net force acting on it is:",
+        "choices": [
+          "Maximum",
+          "Zero",
+          "Increasing",
+          "Negative"
+        ],
+        "answer": "Zero",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The formula for calculating average acceleration is:",
+        "choices": [
+          "a = (v - u) / t",
+          "a = v + u",
+          "a = s / t",
+          "a = F / m"
+        ],
+        "answer": "a = (v - u) / t",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'kinematics' refers to the study of:",
+        "choices": [
+          "Forces acting on objects",
+          "Energy transformations",
+          "Motion without considering forces",
+          "Equilibrium of forces"
+        ],
+        "answer": "Motion without considering forces",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "A ball is thrown upward. At its highest point, its velocity is:",
+        "choices": [
+          "Maximum",
+          "Zero",
+          "Equal to initial velocity",
+          "Negative"
+        ],
+        "answer": "Zero",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "An object thrown vertically upward will return to its original position after a time determined by its initial velocity and acceleration due to gravity. This time is called:",
+        "choices": [
+          "Time of flight",
+          "Period",
+          "Frequency",
+          "Duration"
+        ],
+        "answer": "Time of flight",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'instantaneous velocity' refers to:",
+        "choices": [
+          "The average velocity over a period",
+          "The velocity at a specific moment in time",
+          "The maximum velocity reached",
+          "The minimum velocity reached"
+        ],
+        "answer": "The velocity at a specific moment in time",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'trajectory' refers to:",
+        "choices": [
+          "The speed of an object",
+          "The path followed by an object in motion",
+          "The force acting on an object",
+          "The acceleration of an object"
+        ],
+        "answer": "The path followed by an object in motion",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Newton's Second Law is mathematically expressed as:",
+        "choices": [
+          "F = mv",
+          "F = ma",
+          "F = mg",
+          "F = \u03bcN"
+        ],
+        "answer": "F = ma",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "The normal force is always:",
+        "choices": [
+          "Parallel to the surface",
+          "Perpendicular to the surface",
+          "Opposite to gravity",
+          "Zero"
+        ],
+        "answer": "Perpendicular to the surface",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "Which of the following is true about an object in free fall?",
+        "choices": [
+          "It has zero acceleration.",
+          "It accelerates downward at approximately 9.8 m/s\u00b2.",
+          "It moves upward.",
+          "Its speed decreases."
+        ],
+        "answer": "It accelerates downward at approximately 9.8 m/s\u00b2.",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "An object thrown horizontally from a height will:",
+        "choices": [
+          "Fall straight down",
+          "Follow a parabolic trajectory",
+          "Move in a straight line",
+          "Circle around the point of release"
+        ],
+        "answer": "Follow a parabolic trajectory",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Which force keeps planets in orbit around the Sun?",
+        "choices": [
+          "Electromagnetic force",
+          "Frictional force",
+          "Gravitational force",
+          "Tension force"
+        ],
+        "answer": "Gravitational force",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The force that acts on a mass hanging from a string is called:",
+        "choices": [
+          "Normal force",
+          "Frictional force",
+          "Tension",
+          "Gravitational force"
+        ],
+        "answer": "Tension",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "Free-fall acceleration near Earth's surface is approximately:",
+        "choices": [
+          "1 m/s\u00b2",
+          "9.8 m/s\u00b2",
+          "10 m/s\u00b2",
+          "0 m/s\u00b2"
+        ],
+        "answer": "9.8 m/s\u00b2",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "The rate of change of velocity is called:",
+        "choices": [
+          "Speed",
+          "Displacement",
+          "Acceleration",
+          "Momentum"
+        ],
+        "answer": "Acceleration",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "If an object moves in a straight line at constant speed, its acceleration is:",
+        "choices": [
+          "Positive",
+          "Negative",
+          "Zero",
+          "Changing"
+        ],
+        "answer": "Zero",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'uniform motion' refers to motion with:",
+        "choices": [
+          "Changing speed",
+          "Constant speed in a straight line",
+          "Acceleration",
+          "Deceleration"
+        ],
+        "answer": "Constant speed in a straight line",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The area under a velocity-time graph represents:",
+        "choices": [
+          "Acceleration",
+          "Force",
+          "Displacement",
+          "Momentum"
+        ],
+        "answer": "Displacement",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The SI unit of force is:",
+        "choices": [
+          "Joule",
+          "Newton",
+          "Watt",
+          "Pascal"
+        ],
+        "answer": "Newton",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The slope of a velocity-time graph represents:",
+        "choices": [
+          "Displacement",
+          "Velocity",
+          "Acceleration",
+          "Force"
+        ],
+        "answer": "Acceleration",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The force that opposes the relative motion of two surfaces in contact is called:",
+        "choices": [
+          "Tension",
+          "Normal force",
+          "Friction",
+          "Gravitational force"
+        ],
+        "answer": "Friction",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Mass is a measure of:",
+        "choices": [
+          "Weight",
+          "Volume",
+          "Inertia",
+          "Density"
+        ],
+        "answer": "Inertia",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Which of the following is a scalar quantity?",
+        "choices": [
+          "Velocity",
+          "Displacement",
+          "Distance",
+          "Acceleration"
+        ],
+        "answer": "Distance",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "The force of friction always acts:",
+        "choices": [
+          "In the direction of motion",
+          "Perpendicular to motion",
+          "Opposite to the direction of motion",
+          "Upwards"
+        ],
+        "answer": "Opposite to the direction of motion",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "Static friction is generally _____ kinetic friction.",
+        "choices": [
+          "Less than",
+          "Equal to",
+          "Greater than",
+          "Unrelated to"
+        ],
+        "answer": "Greater than",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'displacement' is defined as:",
+        "choices": [
+          "The total distance traveled",
+          "The shortest distance from the initial to the final position",
+          "The average speed",
+          "The change in velocity"
+        ],
+        "answer": "The shortest distance from the initial to the final position",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "An object moving in a circular path at constant speed has:",
+        "choices": [
+          "Zero acceleration",
+          "Centripetal acceleration",
+          "Tangential acceleration",
+          "Linear acceleration"
+        ],
+        "answer": "Centripetal acceleration",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'average velocity' is defined as:",
+        "choices": [
+          "Total distance divided by total time",
+          "Total displacement divided by total time",
+          "Final velocity minus initial velocity",
+          "Initial velocity plus final velocity"
+        ],
+        "answer": "Total displacement divided by total time",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass. This is known as:",
+        "choices": [
+          "Newton's First Law",
+          "Newton's Second Law",
+          "Newton's Third Law",
+          "Law of Universal Gravitation"
+        ],
+        "answer": "Newton's Second Law",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'instantaneous speed' refers to:",
+        "choices": [
+          "The average speed over a period",
+          "The speed of an object at a specific moment in time",
+          "The maximum speed reached",
+          "The minimum speed reached"
+        ],
+        "answer": "The speed of an object at a specific moment in time",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The distance traveled by an object in a given time can be calculated using the formula:",
+        "choices": [
+          "Distance = Speed \u00d7 Time",
+          "Distance = Acceleration \u00d7 Time",
+          "Distance = Velocity \u00d7 Time",
+          "Distance = Force \u00d7 Time"
+        ],
+        "answer": "Distance = Speed \u00d7 Time",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "If the net force on an object is zero, the object will:",
+        "choices": [
+          "Accelerate",
+          "Decelerate",
+          "Remain at rest or move at constant velocity",
+          "Change direction"
+        ],
+        "answer": "Remain at rest or move at constant velocity",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The gravitational force between two objects depends on their masses and the distance between them. This relationship is described by:",
+        "choices": [
+          "Newton's First Law",
+          "Newton's Second Law",
+          "Newton's Third Law",
+          "Newton's Law of Universal Gravitation"
+        ],
+        "answer": "Newton's Law of Universal Gravitation",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      }
+    ],
+    "selected_topics": [
+      "Mechanics"
+    ],
+    "selected_subtopics": [
+      "Kinematics",
+      "Dynamics",
+      "Work, Energy, Power"
+    ],
+    "selected_topic_subtopic_pairs": [
+      [
+        "Mechanics",
+        "Kinematics"
+      ],
+      [
+        "Mechanics",
+        "Dynamics"
+      ],
+      [
+        "Mechanics",
+        "Work, Energy, Power"
+      ]
+    ],
+    "time_spent_distribution": [
+      55,
+      16,
+      19
+    ]
+  },
+  {
+    "title": "566",
+    "date": "2025-07-07",
+    "type": "Midterm",
+    "difficulty": "Beginner",
+    "question_count": 50,
+    "questions": [
+      {
+        "type": "applied",
+        "question": "If an object moves in a straight line at constant speed, its acceleration is:",
+        "choices": [
+          "Positive",
+          "Negative",
+          "Zero",
+          "Changing"
+        ],
+        "answer": "Zero",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "Static friction is generally _____ kinetic friction.",
+        "choices": [
+          "Less than",
+          "Equal to",
+          "Greater than",
+          "Unrelated to"
+        ],
+        "answer": "Greater than",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "The normal force is always:",
+        "choices": [
+          "Parallel to the surface",
+          "Perpendicular to the surface",
+          "Opposite to gravity",
+          "Zero"
+        ],
+        "answer": "Perpendicular to the surface",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'trajectory' refers to:",
+        "choices": [
+          "The speed of an object",
+          "The path followed by an object in motion",
+          "The force acting on an object",
+          "The acceleration of an object"
+        ],
+        "answer": "The path followed by an object in motion",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'scalar quantity' refers to a quantity that has:",
+        "choices": [
+          "Magnitude and direction",
+          "Magnitude only",
+          "Direction only",
+          "Neither magnitude nor direction"
+        ],
+        "answer": "Magnitude only",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'average velocity' is defined as:",
+        "choices": [
+          "Total distance divided by total time",
+          "Total displacement divided by total time",
+          "Final velocity minus initial velocity",
+          "Initial velocity plus final velocity"
+        ],
+        "answer": "Total displacement divided by total time",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass. This is known as:",
+        "choices": [
+          "Newton's First Law",
+          "Newton's Second Law",
+          "Newton's Third Law",
+          "Law of Universal Gravitation"
+        ],
+        "answer": "Newton's Second Law",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "If a car decelerates uniformly, its velocity-time graph is a:",
+        "choices": [
+          "Horizontal line",
+          "Curve upwards",
+          "Straight line sloping downward",
+          "Vertical line"
+        ],
+        "answer": "Straight line sloping downward",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The distance traveled by an object in a given time can be calculated using the formula:",
+        "choices": [
+          "Distance = Speed \u00d7 Time",
+          "Distance = Acceleration \u00d7 Time",
+          "Distance = Velocity \u00d7 Time",
+          "Distance = Force \u00d7 Time"
+        ],
+        "answer": "Distance = Speed \u00d7 Time",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "An object moving in a straight line with constant speed has:",
+        "choices": [
+          "Positive acceleration",
+          "Negative acceleration",
+          "Zero acceleration",
+          "Variable acceleration"
+        ],
+        "answer": "Zero acceleration",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "Which of the following is true about an object in free fall?",
+        "choices": [
+          "It has zero acceleration.",
+          "It accelerates downward at approximately 9.8 m/s\u00b2.",
+          "It moves upward.",
+          "Its speed decreases."
+        ],
+        "answer": "It accelerates downward at approximately 9.8 m/s\u00b2.",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The formula for calculating displacement in uniformly accelerated motion is:",
+        "choices": [
+          "s = ut + 0.5at\u00b2",
+          "s = vt - 0.5at\u00b2",
+          "s = ut - 0.5at\u00b2",
+          "s = vt + 0.5at\u00b2"
+        ],
+        "answer": "s = ut + 0.5at\u00b2",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The slope of a velocity-time graph represents:",
+        "choices": [
+          "Displacement",
+          "Velocity",
+          "Acceleration",
+          "Force"
+        ],
+        "answer": "Acceleration",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "A car moving with a constant speed of 60 km/h for 2 hours travels a distance of:",
+        "choices": [
+          "60 km",
+          "120 km",
+          "180 km",
+          "240 km"
+        ],
+        "answer": "120 km",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "An object thrown vertically upward will have a velocity of zero at its peak height. What is its acceleration at that point?",
+        "choices": [
+          "0 m/s\u00b2",
+          "9.8 m/s\u00b2 upward",
+          "9.8 m/s\u00b2 downward",
+          "Variable"
+        ],
+        "answer": "9.8 m/s\u00b2 downward",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "The force of friction always acts:",
+        "choices": [
+          "In the direction of motion",
+          "Perpendicular to motion",
+          "Opposite to the direction of motion",
+          "Upwards"
+        ],
+        "answer": "Opposite to the direction of motion",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Mass is a measure of:",
+        "choices": [
+          "Weight",
+          "Volume",
+          "Inertia",
+          "Density"
+        ],
+        "answer": "Inertia",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "If an object moves at constant velocity, its acceleration is:",
+        "choices": [
+          "Increasing",
+          "Decreasing",
+          "Zero",
+          "Constant but non-zero"
+        ],
+        "answer": "Zero",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The tendency of an object to resist changes in its state of motion is called:",
+        "choices": [
+          "Momentum",
+          "Inertia",
+          "Force",
+          "Acceleration"
+        ],
+        "answer": "Inertia",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The displacement of an object is defined as:",
+        "choices": [
+          "The total distance traveled",
+          "The change in position",
+          "The speed of the object",
+          "The average velocity"
+        ],
+        "answer": "The change in position",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'instantaneous velocity' refers to:",
+        "choices": [
+          "The average velocity over a period",
+          "The velocity at a specific moment in time",
+          "The maximum velocity reached",
+          "The minimum velocity reached"
+        ],
+        "answer": "The velocity at a specific moment in time",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The force that acts on a mass hanging from a string is called:",
+        "choices": [
+          "Normal force",
+          "Frictional force",
+          "Tension",
+          "Gravitational force"
+        ],
+        "answer": "Tension",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "If an object is in equilibrium, the net force acting on it is:",
+        "choices": [
+          "Maximum",
+          "Zero",
+          "Increasing",
+          "Negative"
+        ],
+        "answer": "Zero",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'uniform acceleration' means that the acceleration is:",
+        "choices": [
+          "Increasing over time",
+          "Decreasing over time",
+          "Constant over time",
+          "Variable"
+        ],
+        "answer": "Constant over time",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The formula for calculating average speed is:",
+        "choices": [
+          "Total distance / Total time",
+          "Final velocity - Initial velocity",
+          "Total displacement / Total time",
+          "Initial velocity + Final velocity"
+        ],
+        "answer": "Total distance / Total time",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Which force keeps planets in orbit around the Sun?",
+        "choices": [
+          "Electromagnetic force",
+          "Frictional force",
+          "Gravitational force",
+          "Tension force"
+        ],
+        "answer": "Gravitational force",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'displacement' is defined as:",
+        "choices": [
+          "The total distance traveled",
+          "The shortest distance from the initial to the final position",
+          "The speed of the object",
+          "The average velocity"
+        ],
+        "answer": "The shortest distance from the initial to the final position",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "The force required to keep an object moving at constant velocity is equal to:",
+        "choices": [
+          "The gravitational force",
+          "The applied force",
+          "The force of friction",
+          "The normal force"
+        ],
+        "answer": "The force of friction",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Which equation describes motion with constant acceleration?",
+        "choices": [
+          "F = ma",
+          "v = u + at",
+          "s = vt",
+          "a = \u0394v/\u0394t"
+        ],
+        "answer": "v = u + at",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "An object in free fall experiences constant acceleration due to gravity. This acceleration is approximately:",
+        "choices": [
+          "9.8 m/s\u00b2",
+          "0 m/s\u00b2",
+          "10 m/s\u00b2",
+          "5 m/s\u00b2"
+        ],
+        "answer": "9.8 m/s\u00b2",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "An object moving with uniform acceleration has a velocity that changes:",
+        "choices": [
+          "Randomly",
+          "Linearly with time",
+          "Exponentially",
+          "Inversely"
+        ],
+        "answer": "Linearly with time",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "An object in free fall experiences a net force equal to its weight. This is due to:",
+        "choices": [
+          "Friction",
+          "Tension",
+          "Gravity",
+          "Normal force"
+        ],
+        "answer": "Gravity",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "Free-fall acceleration near Earth's surface is approximately:",
+        "choices": [
+          "1 m/s\u00b2",
+          "9.8 m/s\u00b2",
+          "10 m/s\u00b2",
+          "0 m/s\u00b2"
+        ],
+        "answer": "9.8 m/s\u00b2",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "If the net force on an object is zero, the object will:",
+        "choices": [
+          "Accelerate",
+          "Decelerate",
+          "Remain at rest or move at constant velocity",
+          "Change direction"
+        ],
+        "answer": "Remain at rest or move at constant velocity",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "When a car accelerates, the force exerted by the tires on the road is called:",
+        "choices": [
+          "Gravitational force",
+          "Frictional force",
+          "Normal force",
+          "Tension"
+        ],
+        "answer": "Frictional force",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "An object thrown vertically upward will return to its original position after a time determined by its initial velocity and acceleration due to gravity. This time is called:",
+        "choices": [
+          "Time of flight",
+          "Period",
+          "Frequency",
+          "Duration"
+        ],
+        "answer": "Time of flight",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "An object thrown horizontally from a height will:",
+        "choices": [
+          "Fall straight down",
+          "Follow a parabolic trajectory",
+          "Move in a straight line",
+          "Circle around the point of release"
+        ],
+        "answer": "Follow a parabolic trajectory",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "The force that acts on an object moving in a circular path is called:",
+        "choices": [
+          "Centrifugal force",
+          "Centripetal force",
+          "Frictional force",
+          "Gravitational force"
+        ],
+        "answer": "Centripetal force",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Newton's Second Law is mathematically expressed as:",
+        "choices": [
+          "F = mv",
+          "F = ma",
+          "F = mg",
+          "F = \u03bcN"
+        ],
+        "answer": "F = ma",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The formula for calculating acceleration is:",
+        "choices": [
+          "a = (v - u) / t",
+          "a = v / t",
+          "a = u + v",
+          "a = s / t"
+        ],
+        "answer": "a = (v - u) / t",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'kinematics' refers to the study of:",
+        "choices": [
+          "Forces acting on objects",
+          "Energy transformations",
+          "Motion without considering forces",
+          "Equilibrium of forces"
+        ],
+        "answer": "Motion without considering forces",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'instantaneous speed' refers to:",
+        "choices": [
+          "The average speed over a period",
+          "The speed of an object at a specific moment in time",
+          "The maximum speed reached",
+          "The minimum speed reached"
+        ],
+        "answer": "The speed of an object at a specific moment in time",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The force that opposes the relative motion of two surfaces in contact is called:",
+        "choices": [
+          "Tension",
+          "Normal force",
+          "Friction",
+          "Gravitational force"
+        ],
+        "answer": "Friction",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "Newton's First Law is also called:",
+        "choices": [
+          "Law of Action-Reaction",
+          "Law of Acceleration",
+          "Law of Inertia",
+          "Law of Gravitation"
+        ],
+        "answer": "Law of Inertia",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The SI unit of force is:",
+        "choices": [
+          "Joule",
+          "Newton",
+          "Watt",
+          "Pascal"
+        ],
+        "answer": "Newton",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The gravitational force between two objects depends on their masses and the distance between them. This relationship is described by:",
+        "choices": [
+          "Newton's First Law",
+          "Newton's Second Law",
+          "Newton's Third Law",
+          "Newton's Law of Universal Gravitation"
+        ],
+        "answer": "Newton's Law of Universal Gravitation",
+        "subtopic": "Dynamics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "applied",
+        "question": "Which of the following describes an object in motion with constant speed?",
+        "choices": [
+          "It covers equal distances in equal intervals of time.",
+          "Its velocity is changing.",
+          "It has zero acceleration.",
+          "It is at rest."
+        ],
+        "answer": "It covers equal distances in equal intervals of time.",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The formula for calculating average acceleration is:",
+        "choices": [
+          "a = (v - u) / t",
+          "a = v + u",
+          "a = s / t",
+          "a = F / m"
+        ],
+        "answer": "a = (v - u) / t",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The term 'vector quantity' refers to a quantity that has:",
+        "choices": [
+          "Magnitude only",
+          "Direction only",
+          "Magnitude and direction",
+          "Neither magnitude nor direction"
+        ],
+        "answer": "Magnitude and direction",
+        "subtopic": "Work, Energy, Power",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      },
+      {
+        "type": "remembering",
+        "question": "The area under a velocity-time graph represents:",
+        "choices": [
+          "Acceleration",
+          "Force",
+          "Displacement",
+          "Momentum"
+        ],
+        "answer": "Displacement",
+        "subtopic": "Kinematics",
+        "topic": "Mechanics",
+        "class": "multiple_choice"
+      }
+    ],
+    "selected_topics": [
+      "Mechanics"
+    ],
+    "selected_subtopics": [
+      "Kinematics",
+      "Dynamics",
+      "Work, Energy, Power"
+    ],
+    "selected_topic_subtopic_pairs": [
+      [
+        "Mechanics",
+        "Kinematics"
+      ],
+      [
+        "Mechanics",
+        "Dynamics"
+      ],
+      [
+        "Mechanics",
+        "Work, Energy, Power"
+      ]
+    ],
+    "time_spent_distribution": [
+      17,
+      65,
+      8
+    ]
+  }
+]

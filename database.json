@@ -1,0 +1,35 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "0192023a7bbd73250516f069df18b500",
+            "role": "admin"
+        },
+        {
+            "username": "pwedesya",
+            "password": "96425f938d22506eb6eedc25bcbbe8bf",
+            "role": "non-admin"
+        },
+        {
+            "username": "pioko123",
+            "password": "131e5e64b35528d17d5beb8540b5bd04",
+            "role": "non-admin"
+        },
+        {
+            "username": "224-06990M",
+            "password": "96425f938d22506eb6eedc25bcbbe8bf",
+            "role": "non-admin"
+        },
+        {
+            "username": "joelpogi",
+            "password": "96425f938d22506eb6eedc25bcbbe8bf",
+            "role": "non-admin"
+        },
+        {
+            "username": "pioko",
+            "password": "202cb962ac59075b964b07152d234b70",
+            "role": "non-admin"
+        }
+    ],
+    "admin_password": "0192023a7bbd73250516f069df18b500"
+}
